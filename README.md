@@ -1,2 +1,10 @@
-# Change_calc_in_cloud9
-Python based change calculator($), specifically for AWS Cloud9
+         ___        ______     ____ _                 _  ___  
+        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
+       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
+      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
+     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
+ ----------------------------------------------------------------- 
+
+
+## Topic
+The idea is to get used to AWS Cloud9 and AWS Lambda. The project is to build a python based bot.
